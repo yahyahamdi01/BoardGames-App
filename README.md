@@ -1,4 +1,4 @@
-# diamant-hamdi-cpp-boardgames
+### diamant-hamdi-cpp-boardgames
 
 ## Compilation
 Dans la racine du projet exécuter la commande suivante:
